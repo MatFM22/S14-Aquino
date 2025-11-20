@@ -1,0 +1,6 @@
+@S14_Aquino_HostAddress = http://localhost:5142
+
+GET {{S14_Aquino_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
